@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.apple.com'
-  name: Apple
-  favicon: 'http://www.apple.com/favicon.ico'
-  domain: www.apple.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.apple.com/customer-letter/'
+inLanguage: en
+starred: false
 keywords:
   - fbi
   - iphone
@@ -18,17 +17,20 @@ keywords:
   - security
   - unlock
 description: A Message to Our Customers
-inLanguage: en
+datePublished: '2016-02-23T19:52:47.706Z'
+dateModified: '2016-02-23T19:52:13.453Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.apple.com/customer-letter/'
 title: Customer Letter - Apple
-datePublished: '2016-02-23T19:52:05.382Z'
-dateModified: '2016-02-23T19:50:00.756Z'
 sourcePath: _posts/2016-02-23-customer-letter-apple.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Apple
+  domain: www.apple.com
+  url: 'http://www.apple.com'
+  favicon: 'http://www.apple.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
