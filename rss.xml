@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[Project 2501 a digital home]]></title>
         <description><![CDATA[Project 2501 a digital home]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/project-2501-a-digital-home/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:53:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 16:53:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/project-2501-a-digital-home/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedd501516d-3fad-4152-acdc-54b4050e67b1/index.html</link>
+            <link>https://thegrid.ai/project-2501-a-digital-home/d501516d-3fad-4152-acdc-54b4050e67b1/index.html</link>
             <guid isPermaLink="false">d501516d-3fad-4152-acdc-54b4050e67b1</guid>
-            <pubDate>Tue, 23 Feb 2016 16:52:56 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 16:53:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
