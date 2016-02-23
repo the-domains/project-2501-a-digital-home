@@ -1,6 +1,6 @@
 name: Project 2501 a digital home
 favicon: null
-layout_spectrum: 0.08756273030303419
+layout_spectrum: 0.51893
 typography_spectrum: 0.9091324901673943
 title: All content has a link to my life
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.34954182035289705
+  brandStrength: 0.5
   lightness: 0.2714704379905015
-  saturation: 0.6526295642834157
-  rhythmicContrast: 0.3718567576725036
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
