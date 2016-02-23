@@ -11,13 +11,13 @@ description: "See recent global cyber attacks on the FireEye Cyber Threat Map. S
 app_links: []
 isBasedOnUrl: 'https://www.fireeye.com/cyber-map/threat-map.html'
 title: 'Cyber Threat Map | FireEye'
-datePublished: '2016-02-23T19:55:44.060Z'
-dateModified: '2016-02-23T19:55:32.492Z'
+datePublished: '2016-02-23T19:57:13.367Z'
+dateModified: '2016-02-23T19:55:46.672Z'
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-02-23-cyber-threat-map-or-fireeye.md
 published: true
